@@ -1,7 +1,6 @@
 def multiplicar(a,b):
-    print("la multi es:")
-    print("suma sucesiva de numeros")
-    print("la suma en este caso es")
+    #modificado por crista
+    print("la multiplicacion es:")
     return a * b
 
 
