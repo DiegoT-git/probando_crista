@@ -4,5 +4,7 @@ def sumar(a,b):
     print("locore")
     return a+b
 
+print("holi")
+
 
 print(sumar(3,4))
